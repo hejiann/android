@@ -336,5 +336,5 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
-  <project path="device/amoi/n828" name="hejiann/device_amoi_n828" remote="github" revision="jellybean" />
+  <project path="device/amoi/n828" name="hejiann/android_device_amoi_n828" remote="github" revision="jellybean" />
 </manifest>
